@@ -1,4 +1,4 @@
-#HTML CSS Git Challenge: Code Refactor
+# HTML CSS Git Challenge: Code Refactor
 To complete this assignment I refactored existing code to meet accessibility standards. I did this by using semantic HTML and CSS to meet accessibility standards. 
 Link to site: https://alexanderh24.github.io/Horiseon/
 
